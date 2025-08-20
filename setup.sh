@@ -2,7 +2,7 @@
 
 # Raspberry Pi Access Point and Web Server Setup Script
 # Usage: 
-#   wget -O setup.sh <github-raw-url> && chmod +x setup.sh && sudo ./setup.sh
+#   wget -O setup.sh https://raw.githubusercontent.com/adamcubed/bfgate/refs/heads/main/setup.sh && chmod +x setup.sh && sudo ./setup.sh
 #   or with command line options:
 #   sudo ./setup.sh --apname "MyPi-AP" --appass "mypassword123"
 
